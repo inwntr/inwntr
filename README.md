@@ -97,3 +97,7 @@ Full-stack financial management application focused on personal expense tracking
   
   <img height="180em" src="https://winter-stats.vercel.app/api/top-langs/?username=winterzinha&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+
+<br>
+
+<img width="100%" src="https://ghchart.rshah.org/58a6ff/winterzinha" alt="winterzinha's Github chart" />
