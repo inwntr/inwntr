@@ -79,7 +79,7 @@ Full-stack financial management application focused on personal expense tracking
 ## 🌐 Socials
 
 <div> 
-  <a href="https://instagram.com/winterzinho" target="_blank">
+  <a href="https://instagram.com/izwntr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
