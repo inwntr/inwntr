@@ -63,6 +63,7 @@ Full-stack financial management application focused on personal expense tracking
 **Features:** JWT authentication · Protected routes · File uploads · Cloudinary integration · Monthly reports · Financial insights  
 
 - 🌐 Private production deployment (real usage)
+- url: [my finance](https://haonfinance.netlify.app)
 
 ---
 
