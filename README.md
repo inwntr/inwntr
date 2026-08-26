@@ -14,10 +14,10 @@
 
 ## 🧠 About Me
 
-- 🔭 Focused on **Backend Development**
-- 🌱 Currently improving my skills in **TypeScript, Node.js best practices and system design**
-- ⚙️ Interested in APIs, authentication, databases and backend architecture
-- 🎯 Goal: Become a strong Backend Engineer (Node.js / TypeScript)
+* 🔭 Building **REST APIs and backend applications with Node.js and Express**
+* 🔐 Implementing **authentication, protected routes and secure data handling**
+* 🗄️ Designing databases with **PostgreSQL, MongoDB and Prisma ORM**
+* ⚙️ Applying **validation, error handling and maintainable backend architecture**
 
 ---
 
@@ -60,10 +60,20 @@ Full-stack financial management application focused on personal expense tracking
 **Database Hosting:** Neon  
 **Frontend Hosting:** Netlify  
 **API Hosting:** Vercel  
-**Features:** JWT authentication · Protected routes · File uploads · Cloudinary integration · Monthly reports · Financial insights  
+**Features:** JWT authentication · Protected routes · File uploads · Cloudinary integration · Monthly reports · Financial insights
 
-- 🌐 Private production deployment (real usage)
-- url: [my finance](https://haonfinance.netlify.app)
+**Highlights**
+
+- JWT authentication with protected routes
+- Password hashing and secure credential handling
+- PostgreSQL database modeled with Prisma
+- Image upload pipeline using Multer and Cloudinary
+- Monthly transaction reports and financial insights
+- Frontend and API deployed independently
+
+- 🌐 Live in Production
+- [Live application](https://haonfinance.netlify.app)
+- [Source code](https://github.com/inwntr/finance)
 
 ---
 
@@ -87,6 +97,10 @@ Full-stack financial management application focused on personal expense tracking
   <a href="https://discord.com/channels/@me/1119669187997073539" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> 
+
+  <a href="mailto:fxrstzinho@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 ---
