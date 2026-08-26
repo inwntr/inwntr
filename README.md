@@ -74,6 +74,7 @@ Full-stack financial management application focused on personal expense tracking
 - 🌐 Live in Production
 - [Live application](https://haonfinance.netlify.app)
 - [Source code](https://github.com/inwntr/finance)
+- [Source API code](https://github.com/inwntr/finance-api)
 
 ---
 
